@@ -11,3 +11,6 @@
 /build
 /captures
 .externalNativeBuild
+old readme.md
+.gitignore
+.github/copilot-instructions.md
